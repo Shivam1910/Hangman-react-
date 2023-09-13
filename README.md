@@ -8,26 +8,30 @@
 
 ### Materials Used:
 
-- <a  align="center" href="https://vitejs.dev/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="30px" height="30px" alt="vite js" /> Vite JS</a> 
+- <a  align="center" href="https://vitejs.dev/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/vitejs.svg" width="30px" height="30px" alt="vite js" /> Vite JS</a>
 - <a  align="center" href="https://www.typescriptlang.org/" target="_blank"><img align="center" src="https://cdn.worldvectorlogo.com/logos/typescript.svg" width="30px" height="30px" alt="typescript" /> Typesrcipt</a>
 - Some CSS Styling
 
 ### Quick Start:
 
 **Run these Commands on your `Terminal` in yur Machine to Start this Project**
+
 ```
 npm install
 or
 yarn add
 ```
+
 ```
 npm run dev
 or
 yarn dev
 ```
+
 Clone this Repo to Run this Project in Your Machine:
+
 ```
-git clone https://github.com/HamzaZaidiX/Hangman-Game
+git clone https://github.com/Shivam1910/Hangman-react-
 ```
 
 ### Screenshots:
@@ -42,4 +46,4 @@ git clone https://github.com/HamzaZaidiX/Hangman-Game
 
 # Bye! 👋
 
-HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **HAMZA ZAIDI** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
+HOPE U LIKE THIS PROJECT PLEASE! IF YOU ARE USING THIS CODE PLEASE GIVE **SHIVAM SHRIVASTAVA** SOME CREDITS BY LIKE & GIVE A HEART!!! 😃👍💛
